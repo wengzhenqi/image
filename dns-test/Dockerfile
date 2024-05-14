@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s-dns-kube-dns:1.15.10
+FROM k8s.gcr.io/ks-installer:v3.4.0
 MAINTAINER wzq
